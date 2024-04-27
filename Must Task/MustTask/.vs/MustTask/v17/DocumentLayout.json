@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB15A3D-C37D-41CD-9F12-E0B56023D0CB}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\magic\\onedrive\\desktop\\must task\\musttask\\servicelayer\\repositories\\implementation\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB15A3D-C37D-41CD-9F12-E0B56023D0CB}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\repositories\\implementation\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB15A3D-C37D-41CD-9F12-E0B56023D0CB}|ServiceLayer\\ServiceLayer.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\servicelayer\\repositories\\implementation\\studentcourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB15A3D-C37D-41CD-9F12-E0B56023D0CB}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\repositories\\implementation\\studentcourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB15A3D-C37D-41CD-9F12-E0B56023D0CB}|ServiceLayer\\ServiceLayer.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\servicelayer\\repositories\\implementation\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB15A3D-C37D-41CD-9F12-E0B56023D0CB}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\repositories\\implementation\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB15A3D-C37D-41CD-9F12-E0B56023D0CB}|ServiceLayer\\ServiceLayer.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\servicelayer\\repositories\\contract\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB15A3D-C37D-41CD-9F12-E0B56023D0CB}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\repositories\\contract\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418927BA-8B04-4444-80B2-7F7D36343DC8}|CoreLayer\\CoreLayer.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\corelayer\\dtos\\student\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418927BA-8B04-4444-80B2-7F7D36343DC8}|CoreLayer\\CoreLayer.csproj|solutionrelative:corelayer\\dtos\\student\\studentupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418927BA-8B04-4444-80B2-7F7D36343DC8}|CoreLayer\\CoreLayer.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\corelayer\\dtos\\student\\studentreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418927BA-8B04-4444-80B2-7F7D36343DC8}|CoreLayer\\CoreLayer.csproj|solutionrelative:corelayer\\dtos\\student\\studentreaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3FEC38-2742-4B23-9DFA-5D14482DB0CF}|MustTask\\MustTask.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\musttask\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3FEC38-2742-4B23-9DFA-5D14482DB0CF}|MustTask\\MustTask.csproj|solutionrelative:musttask\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94B3C0A-B333-41B2-912C-65C4B93B2BA6}|InfrastructureLayer\\InfrastructureLayer.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\infrastructurelayer\\mapper\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94B3C0A-B333-41B2-912C-65C4B93B2BA6}|InfrastructureLayer\\InfrastructureLayer.csproj|solutionrelative:infrastructurelayer\\mapper\\mappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418927BA-8B04-4444-80B2-7F7D36343DC8}|CoreLayer\\CoreLayer.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\corelayer\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418927BA-8B04-4444-80B2-7F7D36343DC8}|CoreLayer\\CoreLayer.csproj|solutionrelative:corelayer\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418927BA-8B04-4444-80B2-7F7D36343DC8}|CoreLayer\\CoreLayer.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\corelayer\\dtos\\course\\coursereaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418927BA-8B04-4444-80B2-7F7D36343DC8}|CoreLayer\\CoreLayer.csproj|solutionrelative:corelayer\\dtos\\course\\coursereaddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3FEC38-2742-4B23-9DFA-5D14482DB0CF}|MustTask\\MustTask.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\musttask\\controllers\\studentcoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3FEC38-2742-4B23-9DFA-5D14482DB0CF}|MustTask\\MustTask.csproj|solutionrelative:musttask\\controllers\\studentcoursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBB15A3D-C37D-41CD-9F12-E0B56023D0CB}|ServiceLayer\\ServiceLayer.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\servicelayer\\repositories\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBB15A3D-C37D-41CD-9F12-E0B56023D0CB}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\repositories\\implementation\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A94B3C0A-B333-41B2-912C-65C4B93B2BA6}|InfrastructureLayer\\InfrastructureLayer.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\infrastructurelayer\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A94B3C0A-B333-41B2-912C-65C4B93B2BA6}|InfrastructureLayer\\InfrastructureLayer.csproj|solutionrelative:infrastructurelayer\\dbcontext\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3FEC38-2742-4B23-9DFA-5D14482DB0CF}|MustTask\\MustTask.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\musttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3FEC38-2742-4B23-9DFA-5D14482DB0CF}|MustTask\\MustTask.csproj|solutionrelative:musttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3FEC38-2742-4B23-9DFA-5D14482DB0CF}|MustTask\\MustTask.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\musttask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD3FEC38-2742-4B23-9DFA-5D14482DB0CF}|MustTask\\MustTask.csproj|solutionrelative:musttask\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3FEC38-2742-4B23-9DFA-5D14482DB0CF}|MustTask\\MustTask.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\musttask\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD3FEC38-2742-4B23-9DFA-5D14482DB0CF}|MustTask\\MustTask.csproj|solutionrelative:musttask\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418927BA-8B04-4444-80B2-7F7D36343DC8}|CoreLayer\\CoreLayer.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\corelayer\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418927BA-8B04-4444-80B2-7F7D36343DC8}|CoreLayer\\CoreLayer.csproj|solutionrelative:corelayer\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{418927BA-8B04-4444-80B2-7F7D36343DC8}|CoreLayer\\CoreLayer.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\corelayer\\dtos\\course\\coursecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{418927BA-8B04-4444-80B2-7F7D36343DC8}|CoreLayer\\CoreLayer.csproj|solutionrelative:corelayer\\dtos\\course\\coursecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD3FEC38-2742-4B23-9DFA-5D14482DB0CF}|MustTask\\MustTask.csproj|C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\musttask\\musttask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FD3FEC38-2742-4B23-9DFA-5D14482DB0CF}|MustTask\\MustTask.csproj|solutionrelative:musttask\\musttask.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\ServiceLayer\\Repositories\\Implementation\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Repositories\\Implementation\\CourseRepository.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\ServiceLayer\\Repositories\\Implementation\\CourseRepository.cs",
+              "RelativeToolTip": "ServiceLayer\\Repositories\\Implementation\\CourseRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T14:49:10.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\ServiceLayer\\Repositories\\Contract\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Repositories\\Contract\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\ServiceLayer\\Repositories\\Contract\\IStudentRepository.cs",
+              "RelativeToolTip": "ServiceLayer\\Repositories\\Contract\\IStudentRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T19:07:17.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\ServiceLayer\\Repositories\\Implementation\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Repositories\\Implementation\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\ServiceLayer\\Repositories\\Implementation\\StudentRepository.cs",
+              "RelativeToolTip": "ServiceLayer\\Repositories\\Implementation\\StudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T13:54:31.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\MustTask\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "MustTask\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\MustTask\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "MustTask\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAiwCoAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T19:09:13.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MappingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\InfrastructureLayer\\Mapper\\MappingConfig.cs",
+              "RelativeDocumentMoniker": "InfrastructureLayer\\Mapper\\MappingConfig.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\InfrastructureLayer\\Mapper\\MappingConfig.cs",
+              "RelativeToolTip": "InfrastructureLayer\\Mapper\\MappingConfig.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwBcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T18:40:35.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentCourseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\ServiceLayer\\Repositories\\Implementation\\StudentCourseRepository.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Repositories\\Implementation\\StudentCourseRepository.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\ServiceLayer\\Repositories\\Implementation\\StudentCourseRepository.cs",
+              "RelativeToolTip": "ServiceLayer\\Repositories\\Implementation\\StudentCourseRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T20:42:50Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentUpdateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\CoreLayer\\DTOS\\Student\\StudentUpdateDTO.cs",
+              "RelativeDocumentMoniker": "CoreLayer\\DTOS\\Student\\StudentUpdateDTO.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\CoreLayer\\DTOS\\Student\\StudentUpdateDTO.cs",
+              "RelativeToolTip": "CoreLayer\\DTOS\\Student\\StudentUpdateDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T14:40:44.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentReadDTO.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\CoreLayer\\DTOS\\Student\\StudentReadDTO.cs",
+              "RelativeDocumentMoniker": "CoreLayer\\DTOS\\Student\\StudentReadDTO.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\CoreLayer\\DTOS\\Student\\StudentReadDTO.cs",
+              "RelativeToolTip": "CoreLayer\\DTOS\\Student\\StudentReadDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T19:13:13.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\CoreLayer\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "CoreLayer\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\CoreLayer\\Models\\Student.cs",
+              "RelativeToolTip": "CoreLayer\\Models\\Student.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwBIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T19:13:26.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CourseReadDTO.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\CoreLayer\\DTOS\\Course\\CourseReadDTO.cs",
+              "RelativeDocumentMoniker": "CoreLayer\\DTOS\\Course\\CourseReadDTO.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\CoreLayer\\DTOS\\Course\\CourseReadDTO.cs",
+              "RelativeToolTip": "CoreLayer\\DTOS\\Course\\CourseReadDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T10:05:53.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentCourseController.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\MustTask\\Controllers\\StudentCourseController.cs",
+              "RelativeDocumentMoniker": "MustTask\\Controllers\\StudentCourseController.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\MustTask\\Controllers\\StudentCourseController.cs",
+              "RelativeToolTip": "MustTask\\Controllers\\StudentCourseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFUAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T23:09:47.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\ServiceLayer\\Repositories\\Implementation\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "ServiceLayer\\Repositories\\Implementation\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\ServiceLayer\\Repositories\\Implementation\\GenericRepository.cs",
+              "RelativeToolTip": "ServiceLayer\\Repositories\\Implementation\\GenericRepository.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAowA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T14:01:51.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\InfrastructureLayer\\DbContext\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "InfrastructureLayer\\DbContext\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\InfrastructureLayer\\DbContext\\AppDbContext.cs",
+              "RelativeToolTip": "InfrastructureLayer\\DbContext\\AppDbContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBMAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T01:00:38.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\MustTask\\appsettings.json",
+              "RelativeDocumentMoniker": "MustTask\\appsettings.json",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\MustTask\\appsettings.json",
+              "RelativeToolTip": "MustTask\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-26T12:02:23.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\MustTask\\Program.cs",
+              "RelativeDocumentMoniker": "MustTask\\Program.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\MustTask\\Program.cs",
+              "RelativeToolTip": "MustTask\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T18:17:22.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\MustTask\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "MustTask\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\MustTask\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "MustTask\\Controllers\\CourseController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T16:28:49.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CourseCreateDTO.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\CoreLayer\\DTOS\\Course\\CourseCreateDTO.cs",
+              "RelativeDocumentMoniker": "CoreLayer\\DTOS\\Course\\CourseCreateDTO.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\CoreLayer\\DTOS\\Course\\CourseCreateDTO.cs",
+              "RelativeToolTip": "CoreLayer\\DTOS\\Course\\CourseCreateDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-26T19:13:37.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\CoreLayer\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "CoreLayer\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\CoreLayer\\Models\\Course.cs",
+              "RelativeToolTip": "CoreLayer\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T10:06:06.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MustTask.csproj",
+              "DocumentMoniker": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\MustTask\\MustTask.csproj",
+              "RelativeDocumentMoniker": "MustTask\\MustTask.csproj",
+              "ToolTip": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\MustTask\\MustTask.csproj",
+              "RelativeToolTip": "MustTask\\MustTask.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-25T22:56:00.495Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

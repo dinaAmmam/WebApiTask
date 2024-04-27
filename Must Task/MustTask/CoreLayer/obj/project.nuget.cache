@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "cy6c8dKi+XGYmCsHKJfUoJauKMVBwrpmZyHVWn4u6L9Mv4rsqjw6dDJlk5BmgabQoZrmLNFYtgBZkbPdfzMkag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MAGIC\\OneDrive\\Desktop\\Must Task\\MustTask\\CoreLayer\\CoreLayer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MAGIC\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\MAGIC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\MAGIC\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\MAGIC\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\MAGIC\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

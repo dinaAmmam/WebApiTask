@@ -1,0 +1,12 @@
+C:\Users\MAGIC\OneDrive\Desktop\Must Task\MustTask\CoreLayer\bin\Debug\net8.0\CoreLayer.deps.json
+C:\Users\MAGIC\OneDrive\Desktop\Must Task\MustTask\CoreLayer\bin\Debug\net8.0\CoreLayer.dll
+C:\Users\MAGIC\OneDrive\Desktop\Must Task\MustTask\CoreLayer\bin\Debug\net8.0\CoreLayer.pdb
+C:\Users\MAGIC\OneDrive\Desktop\Must Task\MustTask\CoreLayer\obj\Debug\net8.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MAGIC\OneDrive\Desktop\Must Task\MustTask\CoreLayer\obj\Debug\net8.0\CoreLayer.AssemblyInfoInputs.cache
+C:\Users\MAGIC\OneDrive\Desktop\Must Task\MustTask\CoreLayer\obj\Debug\net8.0\CoreLayer.AssemblyInfo.cs
+C:\Users\MAGIC\OneDrive\Desktop\Must Task\MustTask\CoreLayer\obj\Debug\net8.0\CoreLayer.csproj.CoreCompileInputs.cache
+C:\Users\MAGIC\OneDrive\Desktop\Must Task\MustTask\CoreLayer\obj\Debug\net8.0\CoreLayer.dll
+C:\Users\MAGIC\OneDrive\Desktop\Must Task\MustTask\CoreLayer\obj\Debug\net8.0\refint\CoreLayer.dll
+C:\Users\MAGIC\OneDrive\Desktop\Must Task\MustTask\CoreLayer\obj\Debug\net8.0\CoreLayer.pdb
+C:\Users\MAGIC\OneDrive\Desktop\Must Task\MustTask\CoreLayer\obj\Debug\net8.0\ref\CoreLayer.dll
+C:\Users\MAGIC\OneDrive\Desktop\Must Task\MustTask\CoreLayer\obj\Debug\net8.0\CoreLayer.csproj.AssemblyReference.cache
